@@ -1,9 +1,0 @@
-fc = [3, 6, 9, 12, 15, 18, 21]
-fgap = [0, 5, 10, 15, 20, 25]
-scale_low = 0.8
-scale_high = 0.4
-clipLimit = 40
-tileGridSize = (8, 8)
-lpyr_img_name = 'l9h29.jpg'
-lpyr_depth = 8
-lpyr_path = './laplacianpyramid/'
